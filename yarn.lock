@@ -3461,9 +3461,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dreach.in-main@workspace:.":
+"dreach-intern-tester@workspace:.":
   version: 0.0.0-use.local
-  resolution: "dreach.in-main@workspace:."
+  resolution: "dreach-intern-tester@workspace:."
   dependencies:
     "@auth/core": "npm:^0.37.4"
     "@emotion/react": "npm:^11.14.0"
